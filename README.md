@@ -21,7 +21,7 @@ We're currently considering options to make the tool open-source.
 The main goals for that are:
 * sharing the tool, so that the community could make use of it
 * gathering people who are enthusiastic about GitOps approach and the tool itself to improve it
-* bootstrapping the ideas intake process
+* starting the intake of ideas from the community
 
 Still some technical debt fighting and dependencies minimalization must be done as a prerequisite for publishing **Octopush** sources to the world.
 
