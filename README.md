@@ -2,7 +2,7 @@
 A set of services that facilitates Continuous Delivery to K8s clusters in a GitOps way.
 
 ## What is that all about?
-Octopush facilitates **Continuos Delivery** of **Helm** releases to **K8s** clusters.
+Octopush facilitates **Continuous Delivery** of **Helm** releases to **K8s** clusters.
 Written in **Typescript** as a set of **microservices** (with a **Monorepo** approach via **lerna** under the hood).
 
 From day 0 **Octopush** was designed with focus on:
