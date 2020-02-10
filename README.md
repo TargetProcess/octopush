@@ -17,7 +17,7 @@ From day 0 **Octopush** was designed with focus on:
 Octopush is being developed and used internally at Targetprocess for several years already,
 allowing us to successfully manage our 30+ (and growing) production clusters with dozens and hundreds of microservices hosted on each.
 
-You may find the full architectural components diagram [here](/docs/component_diagram.pdf). 
+You can find the system's architecture diagram in the [PDF doc](/docs/component_diagram.pdf), or, if you have a Miro account, on the [Miro board](https://miro.com/app/board/o9J_kvKXCUg=/?moveToWidget=3074457347225182061). 
 
 We're currently considering options to make the tool open-source.
 The main goals for that are:
